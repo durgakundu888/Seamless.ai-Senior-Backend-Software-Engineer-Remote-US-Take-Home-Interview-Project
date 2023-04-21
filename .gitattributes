@@ -14,7 +14,6 @@
 
 # source code
 *.php text
-*.css text
 *.sass text
 *.scss text
 *.less text
@@ -22,8 +21,6 @@
 *.js text eol=lf
 *.coffee text
 *.json text
-*.htm text
-*.html text
 *.xml text
 *.svg text
 *.txt text
@@ -31,7 +28,6 @@
 *.inc text
 *.pl text
 *.rb text
-*.py text
 *.scm text
 *.sql text
 *.sh text
@@ -63,8 +59,6 @@
 .csslintrc text
 
 # misc config
-*.yaml text
-*.yml text
 .editorconfig text
 
 # build config
@@ -80,6 +74,15 @@ Procfile text
 LICENSE text
 AUTHORS text
 
+# Visual Basic
+*.cls text
+*.frm text
+*.frx text
+*.ctl text
+*.ctx text
+*.vbp text
+*.vbg text
+*.bas text
 
 #
 ## These files are binary and should be left untouched
